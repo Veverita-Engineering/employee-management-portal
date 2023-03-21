@@ -18,4 +18,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "jhipster-sample-application"
+rootProject.name = "emp"
