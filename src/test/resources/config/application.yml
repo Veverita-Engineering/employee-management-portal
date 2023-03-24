@@ -23,7 +23,7 @@ mongock:
 
 spring:
   application:
-    name: jhipsterSampleApplication
+    name: EmployeeManagementPortal
   jackson:
     serialization:
       write-durations-as-timestamps: false
@@ -61,7 +61,7 @@ server:
 # ===================================================================
 jhipster:
   clientApp:
-    name: 'jhipsterSampleApplicationApp'
+    name: 'EmployeeManagementPortal'
   mail:
     from: jhipsterSampleApplication@localhost.com
     base-url: http://127.0.0.1:8080
